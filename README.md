@@ -38,6 +38,4 @@ Application Android : ***Trouvez un restaurant pour déjeuner avec vos collègue
 
 - [Github](https://github.com/gtdevgit/P7)
 - [Documentation fonctionnelles](https://github.com/gtdevgit/P7/blob/main/Documentation/P7_Documentation%20fonctionnelle.pdf)
-- [Documentation techniques](https://github.com/gtdevgit/P7/blob/main/
-Documentation/P7_Documentation%20technique.pdf)
-
+- [Documentation techniques](https://github.com/gtdevgit/P7/blob/main/Documentation/P7_Documentation%20technique.pdf)
