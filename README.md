@@ -1,8 +1,3 @@
-<!---
-gtdevgit/gtdevgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Réalisations
 
 ## [Realestate Manager](https://github.com/gtdevgit/P9)
@@ -47,3 +42,9 @@ Documentation : ***Analyser, développer et déployer une solution de vente de p
 - [Spécifications fonctionnelles](https://github.com/gtdevgit/P10/blob/main/Documentation/PDOC_Pizza_01_1_dossier_de_conception_fonctionnelle.pdf)
 - [Spécifications techniques](https://github.com/gtdevgit/P10/blob/main/Documentation/PDOC_Pizza_02_1_dossier_de_conception_technique.pdf)
 - [Dossier d'exploitation](https://github.com/gtdevgit/P10/blob/main/Documentation/PDOC_Pizza_03_1_dossier%20d_exploitation.pdf)
+
+## [Plan comptable](https://github.com/gtdevgit/w8_plan_comptable)
+
+![Metier](https://img.shields.io/badge/Metier-Comptablilite-%2305A6F0) ![Microfost](https://img.shields.io/badge/Store-Microsoft-%2381BA06) ![C#](https://img.shields.io/badge/langage-C%23-blueviolet)
+
+*Application **[Plan Comptable](https://www.microsoft.com/store/productId/9WZDNCRDFQXV)** pour le store Microsoft Windows*
