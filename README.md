@@ -48,3 +48,9 @@ Documentation : ***Analyser, développer et déployer une solution de vente de p
 ![Metier](https://img.shields.io/badge/Metier-Comptablilite-%2305A6F0) ![Microfost](https://img.shields.io/badge/Store-Microsoft-%2381BA06) ![C#](https://img.shields.io/badge/langage-C%23-blueviolet)
 
 *Application **[Plan Comptable](https://www.microsoft.com/store/productId/9WZDNCRDFQXV)** pour le store Microsoft Windows*
+
+## [Cavaquinho](https://github.com/gtdevgit/windows_phone_cavaquinho)
+
+![Musique](https://img.shields.io/badge/Musique-Samba-yellow) ![Microfost](https://img.shields.io/badge/Store-WindowsPhone-%2381BA06) ![C#](https://img.shields.io/badge/langage-C%23-blueviolet)
+
+Application **Cavaquinho**, dictionnaire d'accords.
